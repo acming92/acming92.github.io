@@ -6,15 +6,14 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            AlanWei
+title:            QimingChen
 tagline:          Internet Fanatic
-url:              http://alanwei.github.io
+url:              http://acming92.github.io
 paginate:         1
-baseurl:          http://alanwei.github.io/
+baseurl:          http://acming92.github.io/
 author:
-  name:           Alan Wei
-  url:            https://www.facebook.com/changran.wei
-  email:          alanweichangran@gmail.com
+  name:           Qiming Chen
+  email:          acming9292@gmail.com
 
 # Custom vars
 version:          1.0.0
